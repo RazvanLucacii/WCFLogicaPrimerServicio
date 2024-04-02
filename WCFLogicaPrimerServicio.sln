@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFLogicaPrimerServicio", "WCFLogicaPrimerServicio\WCFLogicaPrimerServicio.csproj", "{B304A549-082F-48B0-8E48-70E4DE23F21B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFHostPrimerServicio", "..\WCFHostPrimerServicio\WCFHostPrimerServicio\WCFHostPrimerServicio.csproj", "{2FE267CD-752C-40A0-A7F3-9E5D9A2DC19D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B304A549-082F-48B0-8E48-70E4DE23F21B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B304A549-082F-48B0-8E48-70E4DE23F21B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B304A549-082F-48B0-8E48-70E4DE23F21B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B304A549-082F-48B0-8E48-70E4DE23F21B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FE267CD-752C-40A0-A7F3-9E5D9A2DC19D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FE267CD-752C-40A0-A7F3-9E5D9A2DC19D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FE267CD-752C-40A0-A7F3-9E5D9A2DC19D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FE267CD-752C-40A0-A7F3-9E5D9A2DC19D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE60219A-7A41-4EC4-AE2F-BC0C41FFE511}
+	EndGlobalSection
+EndGlobal
